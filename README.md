@@ -21,11 +21,11 @@ This tool takes two Letterboxd CSV export files, extracts movie titles from each
 
 ## How to Export Lists from Letterboxd
 
-1. Go to your Letterboxd list page
-2. Click the **"..."** (more) button
-3. Select **"Export as CSV"**
-4. Save the file to your computer
-5. Repeat for the second list you want to compare
+1. Go to [Letterboxd List Downloader](https://lizard.streamlit.app/)
+2. If you prefer a local activity, check out the [lizard project](https://github.com/FastFingertips/lizard) on GitHub
+3. Paste the list url or username/list-title
+4. Press enter and... voilà
+5. Repeat for the second list
 
 ## Installation
 
