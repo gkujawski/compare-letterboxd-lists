@@ -61,8 +61,8 @@ def compare_letterboxd_lists(file1_path, file2_path, output_filename="shared_mov
 
 if __name__ == "__main__":
     # Adjust paths based on the actual location of the CSV files relative to the script execution
-    base_dir = "/c/Users/gkram/my-dev-sandbox/workspace/letterboxd-compare" # Use absolute path for clarity
-    file1 = os.path.join(base_dir, "Taidal Wif List - 2026-02-13T16-42_export.csv")
-    file2 = os.path.join(base_dir, "Solidarity Cinema List - films in drive as of 3_3_25.csv")
+    base_dir = "PATH:/letterboxd-compare" # Use absolute path for clarity
+    file1 = os.path.join(base_dir, "X.csv")
+    file2 = os.path.join(base_dir, "Y.csv")
 
     compare_letterboxd_lists(file1, file2)
