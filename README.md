@@ -198,10 +198,6 @@ jobs:
 - Verify both lists have movies in common
 - Check that titles match exactly (spelling, punctuation, etc.)
 
-## License
-
-[MIT license]
-
 ## Support
 
 For issues or questions, please open an issue on GitHub.
