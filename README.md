@@ -200,11 +200,7 @@ jobs:
 
 ## License
 
-[Add your license here]
-
-## Contributing
-
-[Add contribution guidelines if open source]
+[MIT license]
 
 ## Support
 
